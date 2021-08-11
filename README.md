@@ -20,7 +20,7 @@ An Arabic chatbot built using multiple libraries such as Tensorflow, tflearn, NL
 conda create -n py36 python=3.6
 activate py36
 ```
-4. Install the needed moduls in the environment:
+4. Install the needed modules in the environment:
 ```
 pip install nltk
 pip install numpy
@@ -34,7 +34,7 @@ pip install spyder
 pip install pyaudio
 ```
 5. Type "spyder" to launch the application.
-6. open the python script included in repositiry.
-7. By defult the downloaded script will run as a vocal chatbot.
-8. To use the keyboard add a # to the left of the lines 146, 151, 155, 168, and delet the # in line 150.
+6. open the python script included in the repository.
+7. By default, the downloaded script will run as a vocal chatbot.
+8. To use the keyboard add a # to the left of the lines 146, 151, 155, 168, and delete the # in line 150.
 9. Run the program. 
