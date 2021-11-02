@@ -10,7 +10,7 @@ An Arabic chatbot built using multiple libraries such as Tensorflow, tflearn, NL
 1. Tokenization (splitting the sentence)
 2. Remove stop_words (الى, من)
 3. Normalization using camel tools (أ --> ا)
-4. Stemmeraization (root word)
+4. Stemming (root word)
 
 ## Download process:
 1. Install Anaconda (Spyder) platform.
