@@ -15,10 +15,10 @@ An Arabic chatbot built using multiple libraries such as Tensorflow, tflearn, NL
 ## Download process:
 1. Install Anaconda (Spyder) platform.
 2. Open Anaconda Terminal.
-3. Create a virtual environment that supports python 3.6:
+3. Create a virtual environment that supports python 3.7:
 ```
-conda create -n py36 python=3.6
-activate py36
+conda create -n py37 python=3.7
+activate py37
 ```
 4. Install the needed modules in the environment:
 ```
