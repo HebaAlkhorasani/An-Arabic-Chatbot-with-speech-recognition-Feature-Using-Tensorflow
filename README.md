@@ -26,12 +26,12 @@ pip install nltk
 pip install numpy
 pip install tflearn
 pip install tensorflow
-pip install camel_tools
 pip install gtts
 pip install speechRecognition
 pip install eyed3
 pip install spyder
 pip install pyaudio
+pip install camel_tools
 ```
 5. Type "spyder" to launch the application.
 6. open the python script included in the repository.
